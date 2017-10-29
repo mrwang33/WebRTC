@@ -22,7 +22,7 @@
 	-->
 
 <script type="text/javascript">
-	var socket =new WebSocket("ws://192.168.1.100:8080/Test_WebRTC_0900/games");
+	var socket =new WebSocket("wss://192.168.1.100:8080/Test_WebRTC_0900/games");
 	var isCaller = window.location.href.split('#')[1];
 	
 	socket.onopen = function() {
