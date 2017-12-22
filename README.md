@@ -7,6 +7,7 @@
 注意事项<br>
 请使用chrome浏览器访问(其实是少了火狐浏览器调用摄像头的代码，懒得加了)<br>
 这只是一个小demo用来了解和学习webrtc的，代码还有很多问题 <br>
+由于浏览器安全策略变化 必须使用https才能调用浏览器了 具体请Google tomcat https
 最后<br>
 有问题请及时联系我wang1386528@gmail.com<br>
 希望能给小弟我点个star~<br>
