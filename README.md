@@ -1,7 +1,7 @@
 # WebRTC
 这是一个用Java开发的一对一视频聊天的小demo <br>
 使用到的技术 <br>
-视频通话主要用到WebRTC 使用webSocket交换信令 服务器使用tomcat8<br>
+视频通话主要用到WebRTC 使用webSocket交换信令 服务器使用tomcat8(因为浏览器策略问题 请配置https)<br>
 特点<br>
 代码量极少 简单易懂 <br>
 注意事项<br>
